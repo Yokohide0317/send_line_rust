@@ -4,7 +4,7 @@ RustでLINEのブロードキャスト
 
 ## Setup
 
-```
+```bash
 # 1. Clone This Repo
 git clone https://github.com/Yokohide0317/send_line_rust.git
 cd send_line_rust/
